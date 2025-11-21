@@ -164,11 +164,11 @@ python eval.py   --checkpoint checkpoints/dubma_koniq.pth   --dataset koniq
 
 ## 🧪 Pretrained Models
 
-| Model | Domain | Download |
-|-------|--------|----------|
-| DUBMA-Synthetic | synthetic | — |
-| DUBMA-Authentic (adapt to KonIQ) | authentic | — |
-| DUBMA-Authentic (adapt to SPAQ) | authentic | — |
+| Model  | Download |
+|-------|----------|
+| DUBMA-Synthetic  | [BaiduYunpan] [GoogleDrive] |
+| DUBMA-Authentic (adapt to KonIQ)  | [BaiduYunpan] [GoogleDrive]|
+| DUBMA-Authentic (adapt to SPAQ)  | [BaiduYunpan] [GoogleDrive] |
 
 ---
 
