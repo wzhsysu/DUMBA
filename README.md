@@ -27,8 +27,7 @@ DUBMA is an **opinion-unaware** blind IQA framework that:
 ⚫ Fully opinion-unaware BIQA (no subjective ratings needed)  
 ⚫ Multi-annotator reliability modeling  
 ⚫ Learn-to-Rank pseudo supervision  
-⚫ Robust UDA via unbalanced OT  
-⚫ ResNet-18 backbone  
+⚫ Robust UDA via unbalanced OT   
 ⚫ Strong generalization on authentic distortions  
 
 ---
