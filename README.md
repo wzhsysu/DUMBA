@@ -92,7 +92,7 @@ python train_da.py   --config configs/uda_koniq.yaml
 ## 📈 Evaluation
 
 ```bash
-python eval.py   --checkpoint checkpoints/dubma_koniq.pth   --dataset koniq
+python dataset_test.py
 ```
 
 ---
