@@ -76,16 +76,16 @@ pip install -r requirements.txt
 ## 🚀 Training
 
 ### **1. Synthetic-only Training**
-
-```bash
-python train_synthetic.py   --config configs/synthetic_resnet18.yaml
-```
+Coming soon!
+//```bash
+//python train_synthetic.py   --config configs/synthetic_resnet18.yaml
+//```
 
 ### **2. Synthetic → Real Domain Adaptation**
-
-```bash
-python train_da.py   --config configs/uda_koniq.yaml
-```
+Coming soon!
+//```bash
+//python train_da.py   --config configs/uda_koniq.yaml
+//```
 
 ---
 
