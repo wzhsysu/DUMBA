@@ -70,17 +70,6 @@ pip install -r requirements.txt
 - **[KonIQ-10k](https://database.mmsp-kn.de/koniq-10k-database.html)**
 - **[SPAQ](https://github.com/h4nwei/SPAQ)**
 
-### **Directory Structure**
-
-```
-data/
-  waterloo/
-    images/
-    pairs/
-    annotations/
-  koniq/
-  spaq/
-```
 
 ---
 
@@ -186,7 +175,7 @@ python eval.py   --checkpoint checkpoints/dubma_koniq.pth   --dataset koniq
 
 ## 📬 Contact
 
-**Zhihua Wang** (<a href="mailto:zhihua.wang@my.cityu.edu.hk">zhihua.wang@my.cityu.edu.hk</a>) and **Xuelin Liu**(<a href="mailto:xuelinliu-bill@foxmail.com">xuelinliu-bill@foxmail.com</a> )
+**Zhihua Wang** (<a href="mailto:zhihua.wang@my.cityu.edu.hk">zhihua.wang@my.cityu.edu.hk</a>) and **Xuelin Liu** (<a href="mailto:xuelinliu-bill@foxmail.com">xuelinliu-bill@foxmail.com</a> )
 
 
 
