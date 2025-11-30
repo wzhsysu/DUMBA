@@ -154,9 +154,9 @@ python eval.py   --checkpoint checkpoints/dubma_koniq.pth   --dataset koniq
 
 | Model  | Download |
 |-------|----------|
-| DUBMA-Synthetic  | [BaiduYunpan](https://pan.baidu.com/s/1wWRJOKiP84RxOv3Mke5Wbg) [GoogleDrive] |
+| DUBMA-Synthetic  | [BaiduYunpan](https://pan.baidu.com/s/1wWRJOKiP84RxOv3Mke5Wbg) [GoogleDrive](https://drive.google.com/drive/folders/11t4-QYaDI3JYBLfocJXeP9MkQ8DblAcm?usp=sharing) |
 | DUBMA-Authentic (adapt to KonIQ)  | [BaiduYunpan] [GoogleDrive]|
-| DUBMA-Authentic (adapt to SPAQ)  | [BaiduYunpan](https://pan.baidu.com/s/1wWRJOKiP84RxOv3Mke5Wbg) [GoogleDrive] |
+| DUBMA-Authentic (adapt to SPAQ)  | [BaiduYunpan](https://pan.baidu.com/s/1wWRJOKiP84RxOv3Mke5Wbg) [GoogleDrive](https://drive.google.com/drive/folders/11t4-QYaDI3JYBLfocJXeP9MkQ8DblAcm?usp=sharing) |
 
 ---
 
