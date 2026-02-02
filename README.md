@@ -90,11 +90,10 @@ python train_da.py   --config configs/uda_koniq.yaml
 ---
 
 ## 📈 Evaluation
-
+PS: (1) Create a folder named 'checkpoints', (2) Download the corresponding pretrained model according to the following link and place the weights in 'checkpoints' folder, (3) Prepare the test file 'test.txt' and change the test path (test_set) in 'dataset_test.py' to your own test path, (4) Execute the code.
 ```bash
 python dataset_test.py
 ```
-PS: (1) Create a folder named 'checkpoints', (2) Download the corresponding pretrained model according to the following link and place the weights in 'checkpoints' folder 
 ---
 
 ## 📊 Results
