@@ -10,7 +10,6 @@ def parse_config():
     parser.add_argument('--test_txt', type=str, default='test.txt') # need to revise for testing
     parser.add_argument("--test_set", type=str, default="path to test dataset") # need to revise for testing
     parser.add_argument('--checkpoint', default="checkpoints", type=str, metavar='PATH', help='path to checkpoints')
-    parser.add_argument('--ckpt', default=None, type=str, help='checkpoint path')
     parser.add_argument('--result_path', default="results", type=str, help='checkpoint path')
     parser.add_argument("--oracle_num", type=int, default=10)
     parser.add_argument("--fz", type=bool, default=True)
